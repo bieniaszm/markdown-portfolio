@@ -1,3 +1,4 @@
-[] Tennis
-[] Volleyball
-[] Soccer
+- Tennis 	:heart:
+- Volleyball :+1:
+- Soccer :tada:
+- 🧭 ♟️
